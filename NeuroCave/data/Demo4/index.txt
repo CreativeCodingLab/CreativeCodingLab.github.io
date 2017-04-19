@@ -1,4 +1,0 @@
-subjectID,network,topology
-structural-norm,nwStruct.csv,struct.csv
-structural-nonnorm,nwStruct2.csv,struct2.csv
-functional,nwFunc.csv,func.csv

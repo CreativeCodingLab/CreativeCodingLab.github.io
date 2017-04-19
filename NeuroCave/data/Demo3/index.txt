@@ -1,3 +1,0 @@
-subjectID,network,topology
-female,NWfemale.csv,topologyfemale.csv
-male,NWmale.csv,topologymale.csv
